@@ -1,5 +1,6 @@
 # sqlalchemy-audit-events
 
+Repository: https://github.com/larsderidder/sqlalchemy-audit-events
 SQLAlchemy session events for updating audit fields and timestamps.
 
 ## Install
